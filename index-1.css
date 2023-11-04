@@ -1,0 +1,23 @@
+.box{
+    width: 500px;
+    height: 400px;
+    background-color: palevioletred;
+    border: 1px solid black;
+    margin: 100px auto;
+}
+
+.box-input {
+    margin: 50px 100px;
+    border: 1px dotted black;
+    padding: 13px;
+}
+.sub {
+    margin: 8px 103px;
+}
+
+
+.box-reverse {
+    margin: 50px 80px;
+    border: 1px dotted black;
+    padding: 13px;
+}
