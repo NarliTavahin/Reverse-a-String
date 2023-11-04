@@ -1,23 +1,49 @@
 .box{
     width: 500px;
-    height: 400px;
-    background-color: palevioletred;
+    height: 350px;
+    background-color: rgb(241, 148, 179);
     border: 1px solid black;
     margin: 100px auto;
+    border-radius: 5%;
 }
 
 .box-input {
-    margin: 50px 100px;
-    border: 1px dotted black;
+    margin: 65px 100px;
     padding: 13px;
+    border-radius: 5%;
+    color: rgb(2, 155, 2); 
 }
+
+
+.button-70 {
+  background: linear-gradient(0deg, rgba(20,167,62,1) 0%, rgba(102,247,113,1) 100%);
+  border: 0;
+  box-shadow: rgba(0, 0, 0, .3) 0 5px 15px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: Montserrat,sans-serif;
+  font-size: .9em;
+  margin: 5px;
+  border-radius: 18em;
+  padding: 10px 15px;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
 .sub {
-    margin: 8px 103px;
+    margin: 17px 100px;
 }
 
 
 .box-reverse {
-    margin: 50px 80px;
-    border: 1px dotted black;
+    margin: 50px 75px;
     padding: 13px;
+    font-size: 18px;
+    color: purple;
+    border-radius: 5%;
 }
+
